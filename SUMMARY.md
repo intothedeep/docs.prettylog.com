@@ -1,6 +1,6 @@
 # Table of contents
 
-* [docs.prettylog.com](README.md)
+* [About PrettyLog](README.md)
 * [TEST](test-1.md)
 
 ## API
